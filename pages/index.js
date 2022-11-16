@@ -19,7 +19,7 @@ export default function Home() {
 			{/* <ManualHeader /> */}
 			<Header />
 			<LotteryEntrance />
-			Yo! bish
+			<div>sup</div>
 		</div>
 	);
 }
